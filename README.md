@@ -1,20 +1,21 @@
-<h1 align="center">Merhaba 👋, ben Zylles</h1>
-<h3 align="center">Ben Zylles</h3>
+# 💫 About Me:
+I Am Zylles
 
-<p align="left"> <img src="https:/ /komarev.com/ghpvc/?username=zylles&label=Profile%20views&color=0e75b6&style=flat" alt="zylles" /> </p>
 
-- İnstagramım [https://www.instagram.com/s1r.bugra/] (https://www.instagram.com/s1r.bugra/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s1r.bugra) 
 
-- Postalarım **akdemirbugra5@gmail.com**
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zylles&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zylles&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zylles&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Benimle iletişime geç:</h3>
-<p align="left ">
-<a href = "https://instagram.com/s1r.bugra" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile" -readme-generator/master/src/images/icons/Social/instagram.svg" alt = "s1r.bugra" height = "30" genişlik = "40" /></a> </p>
-<
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Zylles&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-h3 align= "left">Diller ve Araçlar:</h3>
-<p align = "left"> <a href = "https://www.w3schools.com/cs/" target = "_blank" rel = "noreferrer"> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt = "csharp" width = "40" height = "40"/> </a > <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent. com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "javascript" width = "40" height = "40"/> </a> <a href = "https://kotlinlang. org" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt = "kotlin" width = "40" yükseklik = "40"/> </a> <a href = "https://www.python.org" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/" devicons/devicon/master/icons/python/python-original.svg" alt = "python" width = "40" height = "40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=Zylles&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align = "left " src="https://github-readme-stats.vercel.app/api/top-langs?username=zylles&show_icons=true&locale=en&layout=compact" alt="zylles" /></p>
-
-<p>  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=zylles&show_icons=true&locale=en" alt = "zylles" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
