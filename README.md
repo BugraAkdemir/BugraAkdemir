@@ -46,7 +46,6 @@ Teknik olarak üretmeyi, yeni araçlar öğrenmeyi ve yazılım mimarisi üzerin
 ## 🔗 Bağlantılar
 <p align="left">
   <a href="https://github.com/BugraAkdemir"><img src="https://skillicons.dev/icons?i=github" width="40"></a>
- 
   <a href="https://instagram.com/bugraakdemirdev"><img src="https://skillicons.dev/icons?i=instagram" width="40"></a>
 </p>
 
