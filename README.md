@@ -49,14 +49,7 @@ Teknik olarak üretmeyi, yeni araçlar öğrenmeyi ve yazılım mimarisi üzerin
   <a href="https://instagram.com/bugraakdemirdev"><img src="https://skillicons.dev/icons?i=instagram" width="40"></a>
 </p>
 
-### 🧠 Tech Stack (Manual)
 
-- **Kotlin** — 45%
-- **PHP** — 25%
-- **JS** — 10%
-- **Python** — 8%
-- **SQL** — 7%
-- **HTML/CSS** — 5%
 
 
 ---
