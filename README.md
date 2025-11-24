@@ -1,57 +1,89 @@
-<h1 align="center">👋 Buğra Akdemir</h1>
-<h3 align="center">🔧 Mobile & Backend Developer</h3>
-
+<!-- Header Banner -->
+<h1 align="center">👋 Hi, I'm Buğra Akdemir</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BugraAkdemir&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <strong>Mobile • Backend • Desktop Developer</strong><br>
+  Türkiye — 11th Grade Computer Science Student
 </p>
 
 ---
 
-## 🧩 Teknik Profil
-Mobil uygulamalar ve backend servisler üzerinde çalışan bir geliştiriciyim.  
-Android tarafında **Kotlin + Jetpack Compose** kullanarak modern, reaktif ve modüler uygulama mimarileri oluşturuyorum.  
-Backend tarafında ise **PHP / MySQL** ile API yapıları, doğrulama katmanları, veri modelleri ve performans odaklı endpoint’ler geliştiriyorum.
-
-Ağırlıklı olarak şu konularla çalışıyorum:
-
-- **Clean Architecture** ve modüler uygulama tasarımı  
-- **RESTful API geliştirme**, veri modeli ve endpoint tasarlama  
-- **MySQL optimizasyonu**, index yapıları ve ilişkisel veri modeli kurgulama  
-- **Linux üzerinde geliştirme**, servis yönetimi ve CLI araçları  
-- **Git tabanlı sürüm kontrolü**, branch stratejileri ve proje organizasyonu  
-
-Teknik olarak üretmeyi, yeni araçlar öğrenmeyi ve yazılım mimarisi üzerine çalışmayı seviyorum.
+## 🚀 About Me
+I build practical, real-world software with a focus on **Android (Kotlin)**, **backend APIs (Go/PHP)** and **desktop applications (C#)**.  
+I care about **clean code**, **problem-solving**, **performance**, and creating systems that actually work at scale.  
+Actively learning advanced backend architecture, concurrency, deployment and modern UI design.
 
 ---
 
-## 🛠️ Teknolojiler
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,php,cs,python,dart"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,figma"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=mysql,nginx,linux,git,github,docker"/>
+## 🧩 Current Focus
+- Developing scalable backend services (Go + MySQL)
+- Modern Android UI (Jetpack Compose)
+- Secure & optimized full-stack solutions
+- Learning system design, caching, and high-load patterns
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### **Frameworks & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go%20Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 Geliştirici İstatistikleri
+## 📌 Featured Projects
+
+### 🔹 **Android App (Kotlin + Compose)**
+A fully modern Android architecture project:
+- MVVM + Coroutine + Retrofit
+- Material 3 UI
+- API integration + authentication
+- Clean, scalable structure
+
+### 🔹 **Go Backend API**
+High-performance backend stack:
+- Go Fiber framework  
+- MySQL database  
+- JWT-based secure auth  
+- Error-safe, modular structure  
+- Nginx/Apache reverse proxy + Cloudflare protected
+
+### 🔹 **Windows Desktop App (C#)**
+Utility-focused, lightweight Windows applications:
+- WinForms / WPF
+- Local database integrations  
+- Practical UI design
+
+*(Projelerine göre bunları senin için ayrıca detaylandırıp repo açıklamalarına da düzenleyebilirim.)*
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BugraAkdemir&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugraAkdemir&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=BugraAkdemir&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugraAkdemir&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔗 Bağlantılar
-<p align="left">
-  <a href="https://github.com/BugraAkdemir"><img src="https://skillicons.dev/icons?i=github" width="40"></a>
-  <a href="https://instagram.com/bugraakdemirdev"><img src="https://skillicons.dev/icons?i=instagram" width="40"></a>
-</p>
-
-
-
+## 🔗 Connect
+- 🌐 Website: **bugradev.com**
+- 💼 GitHub: **github.com/BugraAkdemir**
 
 ---
 
-<h4 align="center">⚙️ "Kod, mimari ve düzen… iyi bir yazılımın üç temel yapı taşıdır."</h4>
+<p align="center">📌 Clean code. Fast systems. Real projects.</p>
