@@ -1,74 +1,57 @@
-<!-- Header Banner -->
-<h1 align="center">👋 Hi, I'm Buğra Akdemir</h1>
+<h1 align="center">👋 Hi, I'm <strong>Buğra Akdemir</strong></h1>
 <p align="center">
   <strong>Mobile • Backend • Desktop Developer</strong><br>
-  Türkiye — 11th Grade Computer Science Student
+  Türkiye • İstanbul • 17 y/o • Computer Science Student
 </p>
 
 ---
 
-## 🚀 About Me
-I build practical, real-world software with a focus on **Android (Kotlin)**, **backend APIs (Go/PHP)** and **desktop applications (C#)**.  
-I care about **clean code**, **problem-solving**, **performance**, and creating systems that actually work at scale.  
-Actively learning advanced backend architecture, concurrency, deployment and modern UI design.
+## 📌 About Me
+I'm a developer focused on building real, production-ready systems.  
+I work on **Android apps (Kotlin + Compose)**, **high-performance backend services (Go/PHP)** and **desktop tools (C#)**.  
+I care about **performance**, **clean architecture**, and **scalable API design**.  
+My goal is to become a full-stack engineer with strong backend & mobile fundamentals.
 
 ---
 
-## 🧩 Current Focus
-- Developing scalable backend services (Go + MySQL)
-- Modern Android UI (Jetpack Compose)
-- Secure & optimized full-stack solutions
-- Learning system design, caching, and high-load patterns
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
+## 🚀 Tech Stack
+**Languages**  
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
 </p>
 
-### **Frameworks & Tools**
+**Frameworks & Tools**  
 <p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go%20Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go%20Fiber-00ADD8?style=flat&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🔧 What I Do
+- Build Android apps with modern UI (Compose + Material 3)  
+- Develop fast & secure backend APIs (Go Fiber + MySQL)  
+- Create practical Windows tools (C#)  
+- Manage Linux servers, deployment pipelines & optimizations  
 
-### 🔹 **Android App (Kotlin + Compose)**
-A fully modern Android architecture project:
-- MVVM + Coroutine + Retrofit
-- Material 3 UI
-- API integration + authentication
-- Clean, scalable structure
+---
 
-### 🔹 **Go Backend API**
-High-performance backend stack:
-- Go Fiber framework  
-- MySQL database  
-- JWT-based secure auth  
-- Error-safe, modular structure  
-- Nginx/Apache reverse proxy + Cloudflare protected
+## 📌 Featured Work
+### ✔️ Android App — Kotlin + Compose  
+Modern MVVM, API integration, local DB, clean UI.
 
-### 🔹 **Windows Desktop App (C#)**
-Utility-focused, lightweight Windows applications:
-- WinForms / WPF
-- Local database integrations  
-- Practical UI design
+### ✔️ Go Backend API  
+Structured modules, JWT auth, Cloudflare-protected server.
 
-*(Projelerine göre bunları senin için ayrıca detaylandırıp repo açıklamalarına da düzenleyebilirim.)*
+### ✔️ C# Desktop Tools  
+Lightweight, utility-focused applications.
 
 ---
 
@@ -80,10 +63,9 @@ Utility-focused, lightweight Windows applications:
 
 ---
 
-## 🔗 Connect
-- 🌐 Website: **bugradev.com**
-- 💼 GitHub: **github.com/BugraAkdemir**
+## 🔗 Contact
+- 🌐 Website: **bugradev.com**  
+- 📍 Location: Istanbul, Türkiye  
+- 📫 GitHub: github.com/BugraAkdemir  
 
----
-
-<p align="center">📌 Clean code. Fast systems. Real projects.</p>
+<p align="center">⚡ Building clean, fast and scalable systems.</p>
