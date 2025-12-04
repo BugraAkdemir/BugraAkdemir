@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <strong>Buğra Akdemir</strong></h1>
 <p align="center">
   <strong>Mobile • Backend • Desktop • Web Developer</strong><br>
-  Türkiye • İstanbul • 17 y/o • Computer Science Student
+  Türkiye • Kastamonu • 17 y/o • Computer Science Student
 </p>
 
 ---
