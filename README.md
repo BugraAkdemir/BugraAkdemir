@@ -63,20 +63,10 @@ Clean, responsive, performance-oriented designs.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BugraAkdemir&show_icons=true&rank_icon=github&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugraAkdemir&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=BugraAkdemir&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BugraAkdemir&no-frame=true&row=1&column=7" />
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BugraAkdemir&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BugraAkdemir&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BugraAkdemir&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ## 🔗 Contact
