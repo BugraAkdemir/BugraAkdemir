@@ -75,3 +75,5 @@ Clean, responsive, performance-oriented designs.
 - 📫 GitHub: github.com/BugraAkdemir  
 
 <p align="center">⚡ Building clean, fast and scalable systems.</p>
+![](https://komarev.com/ghpvc/?username=BugraAkdemir&style=for-the-badge)
+
