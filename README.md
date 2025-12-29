@@ -1,81 +1,142 @@
-<h1 align="center">👋 Hi, I'm <strong>Buğra Akdemir</strong></h1>
-<p align="center">
-  <strong>Mobile • Backend • Desktop • Web Developer</strong><br>
-  Türkiye • Kastamonu • 17 y/o • Computer Science Student
-</p>
+# 👋 Hi, I'm **Buğra Akdemir**
+
+**Mobile • Backend • Desktop • Web Developer**
+📍 Turkey • Kastamonu • 17 y/o • Computer Science Student
 
 ---
 
-## 📌 About Me
-I'm a developer focused on building **real, production-ready systems**.  
-I work on **Android apps**, **backend APIs**, **desktop tools**, and **modern web interfaces**.  
-I care about **performance**, **clean architecture**, and scalable software design.
+## 🚀 About Me
 
-My goal is to become a **full-stack engineer** with strong backend, mobile and system design foundations.
+I'm a **17-year-old developer** passionate about building **real-world, production-ready applications**.
+I specialize in **Android development** with Kotlin & Jetpack Compose, **backend APIs** using Go, and **full-stack web development** with PHP.
+
+My focus is on creating **scalable, performant, and well-architected** software solutions that solve real problems.
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
 ### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-</p>
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Frameworks & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go%20Fiber-00ADD8?style=flat&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-</p>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Go Fiber](https://img.shields.io/badge/Go%20Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🔧 What I Do
-- Android apps with **Kotlin + Compose**  
-- Backend APIs using **Go Fiber / PHP / MySQL**  
-- Desktop tools in **C#**  
-- Modern, responsive websites (**HTML/CSS/JS**)  
-- Server management, deployment, optimization  
+## 🎯 What I Do
+
+- 📱 **Android Apps** – Modern MVVM architecture with Kotlin & Jetpack Compose
+- 🔧 **Backend APIs** – High-performance REST APIs using Go Fiber
+- 🌐 **Web Development** – Full-stack applications with PHP & MySQL
+- 🖥️ **Desktop Tools** – Native applications built with C#
+- 📦 **DevOps** – Server management, deployment, and optimization
+- 🤖 **Automation** – Discord bots and automation tools with Python
 
 ---
 
-## 📌 Featured Work
-### ✔️ Android App — Kotlin + Compose  
-Modern MVVM, Material 3 UI, API integration.
+## 🌟 Featured Projects
 
-### ✔️ Go Backend API  
-Structured modules, JWT auth, secure Cloudflare setup.
+### 🛒 [HizmetSepetim](https://github.com/BugraAkdemir/HizmetSepetim)
+**Modern Service Ordering Platform**
+A complete marketplace platform connecting service providers with users.
+- **Android:** Kotlin + Jetpack Compose (MVVM)
+- **Backend:** Go Fiber API with JWT authentication
+- **Features:** Real-time data flow, scalable architecture, payment system
 
-### ✔️ Web Projects  
-Clean, responsive, performance-oriented designs.
+### 📱 [HizmetSepetimFlutter](https://github.com/BugraAkdemir/HizmetSepetimFlutter)
+**Cross-Platform Mobile Client**
+Flutter implementation for iOS and unified Android + iOS support.
+- **Tech:** Flutter, Dio, Secure Storage
+- **Features:** Wallet integration, payment system, booking management
+
+### 🤖 [Brayn-Bot](https://github.com/BugraAkdemir/Brayn-Bot)
+**Modular Discord Bot**
+Open-source, automation-focused Discord bot with extensible command system.
+- **Tech:** Python 3.12, Discord API
+- **Features:** Modular architecture, high flexibility, command system
+
+### 🌐 [bugradev-portfolio](https://github.com/BugraAkdemir/bugradev-portfolio)
+**Personal Portfolio Website**
+Modern portfolio with premium animations and high-quality UX.
+- **Tech:** PHP, HTML/CSS/JS
+- **Features:** Innovative transitions, premium design
+
+### 🎵 [MoodWave](https://github.com/BugraAkdemir/MoodWave)
+**AI-Powered Spotify Playlist Generator**
+Automatically creates playlists based on mood using Groq AI.
+- **Tech:** PHP, Groq API, Spotify API
+- **Features:** AI integration, automatic playlist creation
+
+### 🖥️ [BraynBrowser](https://github.com/BugraAkdemir/BraynBrowser)
+**Minimal Desktop Browser**
+Simple, fast desktop browser built with C# and WebView2.
+- **Tech:** C#, WebView2
+- **Features:** Minimal design, modern web compatibility
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BugraAkdemir&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BugraAkdemir&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BugraAkdemir&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BugraAkdemir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A9D8F&icon_color=2A9D8F)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BugraAkdemir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A9D8F)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=BugraAkdemir&theme=radical&hide_border=true&background=0D1117&ring=2A9D8F&fire=2A9D8F&currStreakLabel=2A9D8F)
+
+</div>
+
 ---
 
-## 🔗 Contact
-- 🌐 Website: **bugradev.com**  
-- 📍 Location: Istanbul, Türkiye  
-- 📫 GitHub: github.com/BugraAkdemir  
+## 🎓 Learning & Goals
 
-<p align="center">⚡ Building clean, fast and scalable systems.</p>
+- 🎯 Becoming a **full-stack engineer** with strong backend and mobile foundations
+- 📚 Deepening knowledge in **system design** and **scalable architecture**
+- 🚀 Building **production-ready** applications that solve real problems
+- 🤝 Contributing to **open-source** projects
 
+---
 
- ![Profile Views](https://komarev.com/ghpvc/?username=BugraAkdemir&label=Profile%20Views&color=blue)
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-bugradev.com-2A9D8F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bugradev.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BugraAkdemir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BugraAkdemir)
+[![Instagram](https://img.shields.io/badge/Instagram-@bugraakdemirdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bugraakdemirdev)
+
+</div>
+
+---
+
+## 💡 Philosophy
+
+> **"Building clean, fast, and scalable systems."**
+
+I believe in writing **maintainable code**, following **best practices**, and creating **user-centric** solutions.
+Every project is an opportunity to learn, improve, and build something meaningful.
+
+---
+
+<div align="center">
+
+**⚡ Always learning, always building.**
+
+⭐ Star my repositories if you find them interesting!
+
+</div>
 
