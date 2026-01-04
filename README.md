@@ -47,46 +47,7 @@ My focus is on creating **scalable, performant, and well-architected** software 
 
 ---
 
-## 🌟 Featured Projects
 
-### 🛒 [HizmetSepetim](https://github.com/BugraAkdemir/HizmetSepetim)
-**Modern Service Ordering Platform**
-A complete marketplace platform connecting service providers with users.
-- **Android:** Kotlin + Jetpack Compose (MVVM)
-- **Backend:** Go Fiber API with JWT authentication
-- **Features:** Real-time data flow, scalable architecture, payment system
-
-### 📱 [HizmetSepetimFlutter](https://github.com/BugraAkdemir/HizmetSepetimFlutter)
-**Cross-Platform Mobile Client**
-Flutter implementation for iOS and unified Android + iOS support.
-- **Tech:** Flutter, Dio, Secure Storage
-- **Features:** Wallet integration, payment system, booking management
-
-### 🤖 [Brayn-Bot](https://github.com/BugraAkdemir/Brayn-Bot)
-**Modular Discord Bot**
-Open-source, automation-focused Discord bot with extensible command system.
-- **Tech:** Python 3.12, Discord API
-- **Features:** Modular architecture, high flexibility, command system
-
-### 🌐 [bugradev-portfolio](https://github.com/BugraAkdemir/bugradev-portfolio)
-**Personal Portfolio Website**
-Modern portfolio with premium animations and high-quality UX.
-- **Tech:** PHP, HTML/CSS/JS
-- **Features:** Innovative transitions, premium design
-
-### 🎵 [MoodWave](https://github.com/BugraAkdemir/MoodWave)
-**AI-Powered Spotify Playlist Generator**
-Automatically creates playlists based on mood using Groq AI.
-- **Tech:** PHP, Groq API, Spotify API
-- **Features:** AI integration, automatic playlist creation
-
-### 🖥️ [BraynBrowser](https://github.com/BugraAkdemir/BraynBrowser)
-**Minimal Desktop Browser**
-Simple, fast desktop browser built with C# and WebView2.
-- **Tech:** C#, WebView2
-- **Features:** Minimal design, modern web compatibility
-
----
 
 ## 📊 GitHub Stats
 
