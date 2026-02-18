@@ -101,3 +101,6 @@ Every project is an opportunity to learn, improve, and build something meaningfu
 
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
