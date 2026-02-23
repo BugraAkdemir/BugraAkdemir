@@ -66,13 +66,7 @@ I focus on creating **scalable, performant, and maintainable** software solution
 
 ---
 
-## 📫 Connect With Me
 
-<div align="center">
-[![Website](https://img.shields.io/badge/Website-bugradev.com-2A9D8F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bugradev.com)
-[![GitHub](https://img.shields.io/badge/GitHub-BugraAkdemir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BugraAkdemir)
-[![Instagram](https://img.shields.io/badge/Instagram-@bugraakdemirdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bugraakdemirdev)
-</div>
 
 ---
 
