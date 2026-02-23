@@ -1,16 +1,21 @@
 # 👋 Hi, I'm **Buğra Akdemir**
 
-**Mobile • Backend • Desktop • Web Developer**
-📍 Turkey • Kastamonu • 17 y/o • Computer Science Student
+**Mobile • Backend • Desktop • Web Developer**  
+📍 Kastamonu, Turkey • 17 y/o • Computer Science Student  
 
 ---
 
 ## 🚀 About Me
 
-I'm a **17-year-old developer** passionate about building **real-world, production-ready applications**.
-I specialize in **Android development** with Kotlin & Jetpack Compose, **backend APIs** using Go, and **full-stack web development** with PHP.
+I'm a **17-year-old developer** passionate about building **production-ready applications**.  
+I specialize in:  
+- **Android** development with Kotlin & Jetpack Compose  
+- **Backend APIs** using Go  
+- **Full-stack Web Development** with PHP & MySQL  
 
-My focus is on creating **scalable, performant, and well-architected** software solutions that solve real problems.
+💻 **Linux Enthusiast & Distro Creator:** I experiment with **Arch Linux** and other distributions, and I’m building my own custom Linux distro.  
+
+I focus on creating **scalable, performant, and maintainable** software solutions.
 
 ---
 
@@ -33,72 +38,64 @@ My focus is on creating **scalable, performant, and well-architected** software 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🎯 What I Do
+## 🎯 What I Build
 
-- 📱 **Android Apps** – Modern MVVM architecture with Kotlin & Jetpack Compose
-- 🔧 **Backend APIs** – High-performance REST APIs using Go Fiber
-- 🌐 **Web Development** – Full-stack applications with PHP & MySQL
-- 🖥️ **Desktop Tools** – Native applications built with C#
-- 📦 **DevOps** – Server management, deployment, and optimization
-- 🤖 **Automation** – Discord bots and automation tools with Python
+- 📱 **Android Apps** – Modern MVVM architecture with Kotlin & Jetpack Compose  
+- 🔧 **Backend APIs** – High-performance REST APIs using Go Fiber  
+- 🌐 **Web Apps** – Full-stack applications with PHP & MySQL  
+- 🖥️ **Desktop Tools** – Native apps built with C#  
+- 🐧 **Linux Projects** – Custom scripts, configs, and my own Arch-based distro  
+- 📦 **DevOps & Deployment** – Server management and optimization  
+- 🤖 **Automation** – Discord bots and workflow automation with Python  
 
 ---
-
-
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BugraAkdemir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A9D8F&icon_color=2A9D8F)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BugraAkdemir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A9D8F)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=BugraAkdemir&theme=radical&hide_border=true&background=0D1117&ring=2A9D8F&fire=2A9D8F&currStreakLabel=2A9D8F)
-
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BugraAkdemir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A9D8F&icon_color=2A9D8F)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BugraAkdemir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A9D8F)  
+  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=BugraAkdemir&theme=radical&hide_border=true&background=0D1117&ring=2A9D8F&fire=2A9D8F&currStreakLabel=2A9D8F)
 </div>
 
 ---
 
 ## 🎓 Learning & Goals
 
-- 🎯 Becoming a **full-stack engineer** with strong backend and mobile foundations
-- 📚 Deepening knowledge in **system design** and **scalable architecture**
-- 🚀 Building **production-ready** applications that solve real problems
-- 🤝 Contributing to **open-source** projects
+- Become a **full-stack engineer** with strong backend & mobile foundations  
+- Deepen knowledge in **system design** and **scalable architecture**  
+- Build **production-ready applications** that solve real-world problems  
+- Contribute to **open-source projects**  
+- Expand **Linux expertise** and **custom distro development**
 
 ---
 
 ## 📫 Connect With Me
 
 <div align="center">
-
 [![Website](https://img.shields.io/badge/Website-bugradev.com-2A9D8F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bugradev.com)
 [![GitHub](https://img.shields.io/badge/GitHub-BugraAkdemir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BugraAkdemir)
 [![Instagram](https://img.shields.io/badge/Instagram-@bugraakdemirdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bugraakdemirdev)
-
 </div>
 
 ---
 
 ## 💡 Philosophy
 
-> **"Building clean, fast, and scalable systems."**
+> **"Clean, fast, and scalable systems."**
 
-I believe in writing **maintainable code**, following **best practices**, and creating **user-centric** solutions.
-Every project is an opportunity to learn, improve, and build something meaningful.
+I write **maintainable code**, follow **best practices**, and create **user-centric solutions**.  
+Every project is an opportunity to **learn, improve, and build something meaningful**.
 
 ---
 
 <div align="center">
-
-**⚡ Always learning, always building.**
-
+**⚡ Always learning, always building.**  
 ⭐ Star my repositories if you find them interesting!
-
 </div>
 
 <p align="center">
