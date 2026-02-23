@@ -52,15 +52,7 @@ I focus on creating **scalable, performant, and maintainable** software solution
 - 📦 **DevOps & Deployment** – Server management and optimization  
 - 🤖 **Automation** – Discord bots and workflow automation with Python  
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BugraAkdemir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A9D8F&icon_color=2A9D8F)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BugraAkdemir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A9D8F)  
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=BugraAkdemir&theme=radical&hide_border=true&background=0D1117&ring=2A9D8F&fire=2A9D8F&currStreakLabel=2A9D8F)
-</div>
 
 ---
 
