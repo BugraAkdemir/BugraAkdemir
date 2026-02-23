@@ -52,9 +52,8 @@ I focus on creating **scalable, performant, and maintainable** software solution
 - 📦 **DevOps & Deployment** – Server management and optimization  
 - 🤖 **Automation** – Discord bots and workflow automation with Python  
 
-
-
 ---
+
 
 ## 🎓 Learning & Goals
 
